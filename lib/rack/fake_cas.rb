@@ -1,5 +1,5 @@
 require 'rack'
-require 'rack-cas/cas_request'
+require 'iu-rack-cas/cas_request'
 
 class Rack::FakeCAS
   def initialize(app, config={}, attributes_config={})

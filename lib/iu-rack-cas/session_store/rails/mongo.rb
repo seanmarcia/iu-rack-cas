@@ -1,4 +1,4 @@
-require 'rack-cas/session_store/mongo'
+require 'iu-rack-cas/session_store/mongo'
 require 'action_dispatch/middleware/session/abstract_store'
 
 module ActionDispatch

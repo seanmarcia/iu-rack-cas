@@ -1,4 +1,4 @@
-require 'rack-cas/session_store/mongo'
+require 'iu-rack-cas/session_store/mongo'
 require 'rack/session/abstract/id'
 
 module Rack

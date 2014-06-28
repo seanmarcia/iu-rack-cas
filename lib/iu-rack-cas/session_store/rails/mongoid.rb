@@ -1,4 +1,4 @@
-require 'rack-cas/session_store/mongoid'
+require 'iu-rack-cas/session_store/mongoid'
 require 'action_dispatch/middleware/session/abstract_store'
 
 module ActionDispatch

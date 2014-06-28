@@ -1,4 +1,4 @@
-require 'rack-cas/session_store/active_record'
+require 'iu-rack-cas/session_store/active_record'
 require 'action_dispatch/middleware/session/abstract_store'
 
 module ActionDispatch

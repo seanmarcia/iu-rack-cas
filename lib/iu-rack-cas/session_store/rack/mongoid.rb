@@ -1,4 +1,4 @@
-require 'rack-cas/session_store/mongoid'
+require 'iu-rack-cas/session_store/mongoid'
 require 'rack/session/abstract/id'
 
 module Rack

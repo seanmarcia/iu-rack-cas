@@ -1,7 +1,7 @@
 require 'rack'
 require 'addressable/uri'
-require 'rack-cas/server'
-require 'rack-cas/cas_request'
+require 'iu-rack-cas/server'
+require 'iu-rack-cas/cas_request'
 
 class Rack::CAS
   attr_accessor :server_url

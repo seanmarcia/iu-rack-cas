@@ -1,5 +1,5 @@
-require 'rack-cas/url'
-require 'rack-cas/service_validation_response'
+require 'iu-rack-cas/url'
+require 'iu-rack-cas/service_validation_response'
 
 module RackCAS
   class Server
