@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'iu-rack-cas/version'
 
 spec = Gem::Specification.new do |s|
-  s.name = 'rack-cas'
+  s.name = 'iu-rack-cas'
   s.version = RackCAS::VERSION
   s.summary = 'Rack-based CAS client for Indiana University'
   s.description = 'Simple CAS authentication for Rails, Sinatra or any Rack-based site'
